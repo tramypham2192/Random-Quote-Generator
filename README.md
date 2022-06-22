@@ -1,3 +1,5 @@
+This Random Quote Generator generates random quotes.
+
 # Random-Quote-Generator
 Practice using fetch
 
